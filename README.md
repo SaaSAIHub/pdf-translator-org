@@ -12,7 +12,7 @@
 
 This is the official product documentation repository maintained by [SaaSAIHub](https://github.com/SaaSAIHub). It contains guides and translation examples for the hosted website; the application source code and translation engine are not included.
 
-![Guest upload form showing 50 free pages remaining and two task slots](assets/pdf-translator-online-homepage.jpg)
+![PDFTranslator.org logo and navigation above the guest upload form showing 50 free pages and two task slots](assets/pdf-translator-online-homepage.jpg)
 
 *Guest view on the English homepage.*
 

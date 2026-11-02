@@ -12,7 +12,7 @@
 
 这是由 [SaaSAIHub](https://github.com/SaaSAIHub) 维护的官方产品文档仓库，提供在线服务的使用指南与翻译效果展示，不包含网站应用源码或翻译引擎。
 
-![游客上传表单显示剩余 50 页免费额度、最多 2 个任务](assets/pdf-translator-online-homepage.jpg)
+![PDFTranslator.org 标志和顶部导航栏，下方游客上传表单显示剩余 50 页免费额度和 2 个任务名额](assets/pdf-translator-online-homepage.jpg)
 
 *英文官网首页的游客视图。*
 
