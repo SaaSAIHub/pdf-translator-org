@@ -12,9 +12,9 @@ O [PDFTranslator.org](https://pdftranslator.org/pt-BR) traduz PDFs para mais de 
 
 Este é o repositório oficial de documentação do produto, mantido por [SaaSAIHub](https://github.com/SaaSAIHub). Ele reúne guias e exemplos do serviço online; não inclui o código-fonte da aplicação nem o mecanismo de tradução.
 
-![Logo e menu do PDFTranslator.org acima do formulário de visitante, com 50 páginas gratuitas e limite de duas tarefas](assets/pdf-translator-online-homepage.jpg)
+![Logo e menu do PDFTranslator.org acima do formulário de visitante, com 50 páginas gratuitas e limite de duas tarefas](assets/pdf-translator-online-homepage-pt-BR.jpg)
 
-*Visualização de visitante na página inicial em inglês.*
+*Visualização de visitante na página inicial em português do Brasil.*
 
 ## Tradução de PDF com IA: recursos e limites
 

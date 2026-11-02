@@ -4,6 +4,7 @@ These assets accompany the [official product overview](../README.md).
 
 - `pdftranslator-logo.png`: the product logo used on [PDFTranslator.org](https://pdftranslator.org/images/navbar-logo.png).
 - `pdf-translator-online-homepage.jpg`: the English homepage captured in a guest session on November 2, 2026, showing the product logo, top navigation, language menu, sign-in button, and complete upload form with 50 free pages remaining and a two-task limit. The capture excludes browser chrome and task history.
+- The Simplified Chinese, Spanish and Brazilian Portuguese READMEs use guest screenshots captured from their respective live homepages on the same date: `pdf-translator-online-homepage-zh.jpg`, `pdf-translator-online-homepage-es.jpg`, and `pdf-translator-online-homepage-pt-BR.jpg`.
 - `research-paper-english.webp` and `research-paper-chinese.webp`: abstract and keyword excerpts from the research-paper comparison published on the product homepage. Author contact details were cropped out of both images; the text was not rewritten.
 - `handbook-english.webp` and `handbook-chinese.webp`: the English handbook page and Chinese translation published in the homepage's handbook comparison.
 - `textbook-english.webp` and `textbook-chinese.webp`: the English textbook page and Chinese translation published in the homepage's textbook comparison.

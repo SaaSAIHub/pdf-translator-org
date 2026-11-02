@@ -12,9 +12,9 @@
 
 Este es el repositorio oficial de documentación del producto, mantenido por [SaaSAIHub](https://github.com/SaaSAIHub). Incluye guías y ejemplos del servicio web; no contiene el código fuente de la aplicación ni el motor de traducción.
 
-![Logotipo y menú de PDFTranslator.org sobre el formulario para visitantes, con 50 páginas gratuitas y dos plazas para tareas](assets/pdf-translator-online-homepage.jpg)
+![Logotipo y menú de PDFTranslator.org sobre el formulario para visitantes, con 50 páginas gratuitas y dos plazas para tareas](assets/pdf-translator-online-homepage-es.jpg)
 
-*Vista de visitante en la página de inicio en inglés.*
+*Vista de visitante en la página de inicio en español.*
 
 ## Traducción de PDF con IA: funciones y límites
 
