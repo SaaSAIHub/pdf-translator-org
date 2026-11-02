@@ -37,13 +37,13 @@ The [handbook comparison](../README.md#translate-pdf-handbooks-and-manuals) illu
 
 Compare the explanation with its diagram, exercise number, and caption. Check whether terms are consistent between prose and illustrations. For a translated chapter, sample different page types rather than checking only the first page.
 
-The [textbook comparison](../README.md#translate-pdf-textbooks-and-course-materials) shows text, a concept box, and a diagram together. It is an English-to-Chinese page comparison, not a promise of a bilingual combined download.
+The [textbook comparison](../README.md#translate-pdf-textbooks-and-course-materials) shows text, a concept box, and a diagram together. For your own document, choose the bilingual PDF download to check each translated passage against the original.
 
 ## Scanned, vertical, and complex PDFs
 
-Image-only scans may require OCR before they can be translated. Check the extracted text for omissions, mistaken characters, and incorrect order before translating. Low-quality scans and unusual fonts can make recognition harder.
+If the document check calls for OCR, sign in and review the credit cost before confirming. In the bilingual result, compare names, digits and table entries with the scanned page. Faint print or a skewed scan can turn one character into another even when the sentence reads naturally.
 
-For vertical text or multi-column pages, check the sequence of lines and blocks as well as the wording. Confirm how the current service handles your file instead of assuming that one successful page predicts the entire result.
+In the [vertical-text example](../README.md#vertical-japanese-text), start at the rightmost column of the Japanese original and follow each column down. Locate the same passage in the Chinese translation. Check that dialogue and punctuation stay with the right speaker across column breaks. For multi-column reports, also check where captions and notes enter the reading order.
 
 ## Report a specific issue
 
@@ -51,4 +51,4 @@ Use the [PDFTranslator.org FeedLog portal](https://pdftranslator-org.feedlog.ai/
 
 Do not include personal documents, confidential passages, task identifiers, or signed download URLs. Documentation corrections can be submitted as a pull request; see [CONTRIBUTING](../CONTRIBUTING.md).
 
-Last checked: October 18, 2026. Review guidance does not guarantee a particular translation result.
+Last checked: November 2, 2026. Review guidance does not guarantee a particular translation result.

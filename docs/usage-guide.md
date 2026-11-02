@@ -2,19 +2,19 @@
 
 [Product overview](../README.md) · [Open PDFTranslator.org](https://pdftranslator.org/) · [Feedback](https://pdftranslator-org.feedlog.ai/)
 
-PDFTranslator.org translates complete PDFs into other languages and provides a PDF result for preview or download. This guide covers preparation, language choices, recent tasks, and common problems.
+PDFTranslator.org translates complete PDFs into other languages and lets you preview the result and download a translation-only or bilingual PDF. This guide covers preparation, language choices, recent tasks, and common problems.
 
 ## Prepare a PDF for translation
 
-Use a PDF you are authorized to upload. Check that it opens correctly and stays within the **20MB** per-file limit. Try selecting and copying a sentence: a usable text layer is a better starting point than an image-only scan, although selectable text alone does not guarantee a correct extraction.
+Use a PDF you are authorized to upload. Check that it opens correctly and fits both the size and page limits for your plan (see below). Try selecting and copying a sentence: a usable text layer is a better starting point than an image-only scan, although selectable text alone does not guarantee a correct extraction.
 
-If the site detects a PDF without extractable text, follow its OCR guidance. You can also prepare a searchable PDF with an OCR tool and review the recognized text before uploading it again. Renaming another file's extension to `.pdf` does not convert it.
+You can upload a scan directly. The document check determines whether it needs text recognition (OCR). If it does, sign in to review the whole-file cost before submitting. If you already have a searchable copy, you can upload that instead. Check the text layer for recognition errors.
 
 For long documents, identify the chapters or pages you actually need. The [Split PDF tool](https://pdftranslator.org/tools/split-pdf) can help prepare a smaller selection. Splitting does not increase your monthly page allowance. Keep the original file.
 
 ## Choose languages and a translation style
 
-The source language should match the document's text; the target language is the language you want to read. Changing the website's interface language does not select the target language for your document.
+The source language should match the document's text; the target language is the language you want to read. Check the target language shown on the form before submitting, especially if it has been preselected.
 
 | Task | Source language | Target language |
 | --- | --- | --- |
@@ -38,34 +38,42 @@ Styles guide terminology and expression; they do not certify a translation. Revi
 
 1. Open the [online PDF translator](https://pdftranslator.org/) and select or drop a PDF.
 2. Choose source language, target language, and style.
-3. Check the remaining page allowance and task-slot information on the form.
-4. Start translation and keep the page open until the upload and task creation finish.
-5. Track progress in **Recent translations**. A queued task is waiting for processing; repeatedly resubmitting the same file can create unnecessary work.
-6. Once complete, use the task card's preview or download action. Save the PDF and review it against the original.
+3. Start the translation and keep the page open while the file uploads and the service checks its page count and OCR needs.
+4. An eligible ordinary PDF covered by free pages can enter the queue directly. If credits are needed, review the breakdown and confirm. After buying credits, return to the document to review the refreshed quote.
+5. Follow the task in **Recent translations**. You can cancel it while it is queued. Once processing begins, let it finish.
+6. Preview the result or choose a download. The translation-only PDF is convenient for reading. The bilingual PDF includes the original and translation for comparison.
 
-Recent task records belong to the same browser profile. Another browser, device, or private browsing session will not automatically show them. Clearing browser storage can remove that local list.
+Guests see recent tasks in the browser used to submit them. Clearing site data can remove that local list. Sign in to view tasks submitted under your account. Check the expiry on the task card and save any downloads you want to keep.
 
-## Free allowance and parallel tasks
+## Free pages, credits and file limits
 
-The current free service includes **600 pages per calendar month**, reset at the start of the month. Each file may be up to **20MB**. Up to **3 tasks** may be queued or processing simultaneously; both statuses occupy a slot. Follow any additional limits or availability notices shown by the live service.
+| Access | Ordinary pages free per calendar month | Maximum per PDF | Queued and processing tasks combined |
+| --- | ---: | --- | ---: |
+| Guest | 50 | 20 MiB and 200 pages | 2 |
+| Free account | 600 | 20 MiB and 200 pages | 2 |
+| Active month pass | 600 | 50 MiB and 800 pages | 5 |
 
-A file-size problem, insufficient page allowance, and a full task queue are different conditions. A smaller file does not restore page allowance; splitting a document does not create additional quota. Wait for an active task to finish when all task slots are occupied.
+Ordinary PDFs use free pages first. With an account, each additional page costs 10 credits. For example, if you have 12 free pages left, an 18-page ordinary PDF uses those 12 pages and 60 credits. Unused free pages expire at the end of the calendar month.
+
+OCR requires an account and costs 20 credits per page for the entire document. A 15-page file that needs OCR costs 300 credits even if just one page needs recognition. You can apply welcome credits to this cost and keep your ordinary free pages.
+
+First registration includes a one-time gift of 1,000 credits. A month pass is a one-time purchase valid for 30 days, with priority for new tasks and the higher limits above. Check current prices and credit expiry details on the [pricing page](https://pdftranslator.org/pricing).
 
 ## Troubleshoot PDF translation
 
 | What you see | What to try |
 | --- | --- |
-| File exceeds the size limit | Use fewer pages or try an appropriate compression workflow. Review readability before translating. |
-| Not enough free pages | Translate a smaller relevant selection within the remaining allowance, or wait for the monthly reset. |
-| All task slots are occupied | Wait for a queued or processing task to finish. |
-| PDF has no extractable text | Follow the page's OCR guidance or create and check a searchable PDF first. |
+| File exceeds the size or page limit | Split the PDF to meet the page limit. If only its size exceeds the limit, compression may help. Check that the text stays legible. |
+| Not enough free pages | Choose fewer pages, wait for the monthly reset, or sign in to check your account allowance and the credit quote. |
+| All task slots are occupied | Wait for a task to finish, or cancel a queued task you no longer need. |
+| PDF has no extractable text | Review the OCR quote after signing in, or upload a searchable copy. |
 | Upload fails | Check connectivity, keep the original, and retry after checking whether a task was created. |
 | Task stays queued or processing | Keep the existing task record and check again later; avoid repeated submissions. |
-| Translation fails | Read the task's message, check file readability and language settings, then retry if appropriate. Report persistent problems through FeedLog. |
+| Translation fails | After failure or successful cancellation, the pages and credits used for the task are returned. Free pages return to the original month. Read the error before retrying and check your balance in account settings if signed in. |
 | Download is unavailable | Return to the task card while the result is still available. If it has expired, a new translation may be necessary and remains subject to current limits. |
 | Layout or wording needs attention | Compare the affected page with the original using the review guide below. |
 
-Do not treat recent history as permanent file storage. The published policy gives generated results and download links up to **24 hours after completion**, while local history lasts up to **24 hours after task creation**.
+History is visible for 24 hours after completion, failure or cancellation. Successful results can be previewed and downloaded for 24 hours after completion. A month pass does not extend either window.
 
 ## Next steps
 
@@ -75,4 +83,4 @@ Do not treat recent history as permanent file storage. The published policy give
 
 For public feedback, describe the language pair, approximate page count, browser, and visible error message without including private content, task identifiers, or signed links.
 
-Last checked: October 18, 2026. The [live website](https://pdftranslator.org/) and its [Terms of Service](https://pdftranslator.org/terms-of-service) describe the current service.
+Last checked: November 2, 2026. The [live website](https://pdftranslator.org/) and its [Terms of Service](https://pdftranslator.org/terms-of-service) describe the current service.

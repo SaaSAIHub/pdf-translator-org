@@ -2,31 +2,26 @@
 
 [Product overview](../README.md) · [Official Privacy Policy](https://pdftranslator.org/privacy-policy) · [Terms of Service](https://pdftranslator.org/terms-of-service)
 
-PDFTranslator.org requires uploading PDFs for server processing. It is not a browser-only translation tool. This guide summarizes the published file-handling information and distinguishes server files from browser-local task history.
+PDFTranslator.org uploads your PDF to process the translation on its servers. This guide explains where to find your task, when access ends, and what that means for stored files.
 
 ## What happens when you translate a PDF?
 
-The website obtains an upload URL for object storage, uploads the selected PDF, and creates a translation task using your selected settings. When processing completes, the website provides result preview and download actions.
+The site uploads the PDF to object storage using a signed upload URL. The service checks the document, including its page count and whether it needs OCR. If credits are needed, you see the cost before confirming. Once the task succeeds, you can preview the result and download either the translation-only PDF or the bilingual PDF.
 
-The service processes the document content and relevant metadata needed to perform translation. Do not infer that online translation happens entirely on your device because some file checks or preview operations run in the browser.
+## Task history and downloads
 
-## Three different retention windows
-
-| Item | Published behavior |
+| What you want to access | Where and for how long |
 | --- | --- |
-| Source PDFs and files related to cancelled or failed tasks | Automatically deleted within 24 hours of upload. |
-| Generated translations and download links | Retained for up to 24 hours after task completion. |
-| Recent task records in browser localStorage | Kept for up to 24 hours after task creation; they may be removed sooner from the browser. |
+| Guest task history | Available in the browser you used. Clearing site data can remove the local list sooner. |
+| Signed-in task history | Managed by the service under your account. |
+| A finished task in either history | Visible for 24 hours after completion, failure or cancellation. Check the expiry shown on the task. |
+| A successful translation | Preview and download for 24 hours after completion. A month pass does not extend access. |
 
-These windows begin at different events. A visible local task record does not guarantee an available download, and removing browser history does not itself delete server files. Save a copy of the translated PDF promptly rather than relying on recent tasks for storage.
+After expiry, the task disappears from visible history and downloads end. Storage copies and necessary business records may be retained longer. Account settings show payment and credit usage records separately from recent translations. Save a copy of the result while you can still download it.
 
 ## Browser storage, analytics and service providers
 
-The website uses browser storage for recent tasks and preferences. Recent records are specific to the current browser profile; they are not an account-based archive shared between devices.
-
-The published Privacy Policy describes object storage, analytics such as Google Analytics 4, and technical logs used to operate and improve the service. No account requirement does not mean that the site collects no usage data or makes no network requests.
-
-Refer to the [Privacy Policy](https://pdftranslator.org/privacy-policy) for the current scope, purposes, third parties, security measures, and other details. This guide does not add a promise of immediate deletion, permanent availability, or zero data collection.
+The site uses browser storage for preferences and guest history. The published policy also describes object storage, analytics such as Google Analytics 4, and the technical logs used to operate the service. For details about data handling and third parties, see the [official Privacy Policy](https://pdftranslator.org/privacy-policy).
 
 ## Before uploading and sharing
 
@@ -40,4 +35,4 @@ For public feedback or documentation contributions, use non-sensitive examples. 
 - [Translation and formatting review](translation-review.md)
 - [Product feedback on FeedLog](https://pdftranslator-org.feedlog.ai/)
 
-Last checked: October 18, 2026. This is a product guide; the live website's published policies describe the current service.
+Last checked: November 2, 2026. This is a product guide; the live website's published policies describe the current service.

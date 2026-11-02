@@ -4,15 +4,17 @@
 
 # PDFTranslator.org — Free PDF Translator Online (AI-Powered)
 
-[PDFTranslator.org](https://pdftranslator.org/) is a free online AI PDF translator for translating complete PDF documents into 100+ languages. Upload a PDF, choose the source and target languages, and preview or download the translated PDF. The service is designed to preserve text layout, tables, images, and page structure as closely as possible.
+[PDFTranslator.org](https://pdftranslator.org/) translates PDFs into 100+ languages and aims to preserve text layout, tables and images. Download a translation-only PDF for reading or a bilingual PDF to compare with the original.
 
-**No sign-up. Up to 20MB per PDF. 600 free pages per calendar month.**
+**Guests get 50 free ordinary PDF pages per calendar month. A free account gets 600 pages per month and 1,000 credits on first registration. Scans that need OCR use credits for the whole file.**
 
-[Translate a PDF online](https://pdftranslator.org/) · [Feedback and feature requests](https://pdftranslator-org.feedlog.ai/)
+[Translate a PDF online](https://pdftranslator.org/) · [Pricing](https://pdftranslator.org/pricing) · [Feedback and feature requests](https://pdftranslator-org.feedlog.ai/)
 
 This is the official product documentation repository maintained by [SaaSAIHub](https://github.com/SaaSAIHub). It contains guides and translation examples for the hosted website; the application source code and translation engine are not included.
 
-![PDFTranslator.org online PDF translator showing PDF upload, language selection, translation style, and free allowance](assets/pdf-translator-online-homepage.jpg)
+![Guest upload form showing 50 free pages remaining and two task slots](assets/pdf-translator-online-homepage.jpg)
+
+*Guest view on the English homepage.*
 
 ## Free AI PDF translation: features and limits
 
@@ -20,30 +22,33 @@ PDFTranslator helps students, researchers, and professionals read foreign-langua
 
 | Feature | Current behavior |
 | --- | --- |
-| PDF input and output | Upload a PDF; preview and download a translated PDF. |
+| PDF downloads | Translation-only PDF and bilingual PDF with the original and the translation. |
 | 100+ languages | Select the source and target languages for your document. |
 | Formatting preservation | Designed to retain layout, tables, images, and page structure; review complex documents. |
 | Translation styles | General, Academic, Legal, or Business. |
-| Free monthly allowance | 600 pages per calendar month, resetting at the start of each month. |
-| File size | Up to 20MB per PDF. |
-| Parallel tasks | Up to 3 queued or processing tasks at a time; both use a slot. |
-| No sign-up | Use the browser-based service without an account or installation. |
-| Recent translations | Track recent tasks in the same browser and save completed results promptly. |
+
+| Access | Free ordinary pages per month | Maximum per file | Queued and processing tasks combined |
+| --- | ---: | --- | ---: |
+| Guest | 50 | 20 MiB / 200 pages | 2 |
+| Free account | 600 | 20 MiB / 200 pages | 2 |
+| Active month pass | 600 | 50 MiB / 800 pages | 5 |
+
+A month pass is a one-time purchase valid for 30 days. New tasks receive priority while the pass is active. The pass does not renew automatically.
 
 ## How to translate a PDF online
 
 1. Open [PDFTranslator.org](https://pdftranslator.org/) and select or drop your PDF.
 2. Choose the document's source language and your target language.
 3. Select **General**, or choose **Academic**, **Legal**, or **Business** to match the content.
-4. Select **Start Translation**. Keep the page open until upload and task creation finish.
+4. Start the translation and keep the page open for the upload and document check. Eligible tasks using only free pages can enter the queue directly. If credits are required, review the cost and confirm.
 5. Follow progress in **Recent translations** on the homepage.
-6. Preview or download the completed PDF, then check important text and formatting against the original.
+6. Preview your result or download the translation-only or bilingual PDF.
 
 Keep the original and download your result promptly. See the [PDF translation usage guide](docs/usage-guide.md) for file preparation, task limits, and troubleshooting.
 
-## PDF translation examples: research papers, handbooks and textbooks
+## PDF translation examples
 
-The following English-to-Chinese page comparisons show document structure and translated text from the product's published examples. They illustrate individual pages, not a guarantee for every PDF or language pair.
+These page pairs come from the examples published on the product homepage. The first three show English documents translated into Chinese. The fourth shows a Japanese vertical-text page translated into Chinese.
 
 ### Research paper translation
 
@@ -72,6 +77,15 @@ Compare explanations, lists, and diagrams while studying a translated textbook p
 <tr><td width="50%"><img src="assets/textbook-english.webp" alt="Translate PDF textbooks and course materials — English original — textbook" width="100%"></td><td width="50%"><img src="assets/textbook-chinese.webp" alt="Translate PDF textbooks and course materials — Chinese translation — textbook" width="100%"></td></tr>
 </table>
 
+### Vertical Japanese text
+
+Follow the columns from right to left and check where dialogue and punctuation fall in the translation.
+
+<table>
+<tr><th>Japanese original</th><th>Chinese translation</th></tr>
+<tr><td width="50%"><img src="assets/vertical-japanese.webp" alt="Vertical Japanese text — Japanese original" width="100%"></td><td width="50%"><img src="assets/vertical-chinese.webp" alt="Vertical Japanese text — Chinese translation" width="100%"></td></tr>
+</table>
+
 For a closer review of terminology, tables, figures, and reading order, use the [translation and formatting checklist](docs/translation-review.md).
 
 ## Supported languages and PDF translation use cases
@@ -93,7 +107,7 @@ Website interfaces: [English](https://pdftranslator.org/) · [中文](https://pd
 
 ### Is PDFTranslator.org a free PDF translator without sign-up?
 
-Yes. PDFTranslator.org currently includes 600 free pages per calendar month without registration. The allowance resets at the start of each month. Each PDF may be up to 20MB, and up to 3 queued or processing tasks can run at once.
+Yes. Guests can translate 50 ordinary pages each calendar month. With an account, ordinary PDFs use the 600 monthly free pages first, then 10 credits for each additional page. Unused free pages do not carry over.
 
 ### Can I translate a PDF without losing formatting?
 
@@ -101,11 +115,11 @@ PDFTranslator.org aims to preserve the layout, tables, images, and page structur
 
 ### Can I translate long PDF documents?
 
-Yes, within the 20MB file-size limit, remaining monthly allowance, and limits displayed by the service. Splitting a PDF can help select relevant chapters or reduce individual file size, but it does not increase the free monthly allowance.
+Guests and free accounts can upload up to 200 pages and 20 MiB per file. An active month pass raises those limits to 800 pages and 50 MiB. Split a document to translate selected chapters within your allowance.
 
 ### Can I translate a scanned PDF?
 
-Image-only scans may need OCR before PDF translation. If the website cannot extract text, follow its OCR guidance or prepare a searchable PDF using an OCR tool, then try again. Review recognized text before translating it.
+Upload the scan directly. If the check finds it needs OCR, sign in and review the quote. Every page in the file costs 20 credits, even if only some pages need recognition. Welcome credits can cover OCR. Ordinary free pages do not apply.
 
 ### Does the service produce a Word document?
 
@@ -113,11 +127,15 @@ The main translation workflow accepts PDFs and returns translated PDFs. This rep
 
 ### How long can I access my translated PDF?
 
-The published Privacy Policy states that generated results and their download links are retained for up to 24 hours after completion. Browser-local recent task records last up to 24 hours after task creation, which is a different window. Save your own copy promptly.
+Task history is visible for 24 hours after completion, failure or cancellation. Preview or download a successful result within 24 hours of completion, even with a month pass. Check the expiry on the task card.
 
 ### Are my files processed locally?
 
-No. PDF translation requires uploading the document for server processing. According to the [Privacy Policy](https://pdftranslator.org/privacy-policy), source PDFs and files associated with cancelled or failed tasks are deleted within 24 hours of upload. See the [file-handling guide](docs/privacy.md) for retention, local history, and analytics.
+Translation runs on the server. Guest history is saved in the current browser, while signed-in history is managed by the service. Storage copies and necessary business records may remain after access expires. See the [file-handling guide](docs/privacy.md).
+
+### What happens if a task fails or I cancel it?
+
+You can cancel a queued task until processing begins. After a failure or successful cancellation, the service returns the pages and credits used. Free pages go back to their original month.
 
 ### Is this an open-source translator or a public API package?
 
@@ -134,4 +152,4 @@ This repository contains official documentation for the hosted PDFTranslator.org
 
 Use non-sensitive examples when reporting a problem. Do not publish private documents, task identifiers, or signed upload/download links.
 
-**Product details last checked: October 18, 2026.** Features and limits may change; the [live website](https://pdftranslator.org/), [Privacy Policy](https://pdftranslator.org/privacy-policy), and [Terms of Service](https://pdftranslator.org/terms-of-service) describe the current service.
+**Product details last checked: November 2, 2026.** Features and limits may change; the [live website](https://pdftranslator.org/), [Privacy Policy](https://pdftranslator.org/privacy-policy), and [Terms of Service](https://pdftranslator.org/terms-of-service) describe the current service.

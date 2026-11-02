@@ -4,15 +4,17 @@
 
 # PDFTranslator.org — Traductor de PDF online gratis con IA
 
-[PDFTranslator.org](https://pdftranslator.org/es) es un traductor de PDF online con IA que permite traducir documentos PDF completos a más de 100 idiomas. Sube un PDF, selecciona los idiomas de origen y destino y, al finalizar, previsualiza o descarga el PDF traducido. El servicio está diseñado para conservar, en la medida de lo posible, la disposición del texto, las tablas, las imágenes y la estructura de las páginas.
+[PDFTranslator.org](https://pdftranslator.org/es) traduce documentos PDF a más de 100 idiomas y procura conservar la disposición del texto, las tablas y las imágenes. Puedes descargar solo la traducción o un PDF bilingüe para compararla con el original.
 
-**Sin registro. Hasta 20MB por PDF. 600 páginas gratis por mes natural.**
+**Sin cuenta tienes 50 páginas gratuitas de PDF ordinarios por mes natural. Una cuenta gratuita incluye 600 al mes y un regalo único de 1.000 créditos al registrarte. Si un escaneo necesita OCR, se cobran créditos por todo el archivo.**
 
-[Traducir un PDF online](https://pdftranslator.org/es) · [Comentarios y sugerencias](https://pdftranslator-org.feedlog.ai/)
+[Traducir un PDF online](https://pdftranslator.org/es) · [Planes y precios](https://pdftranslator.org/es/pricing) · [Comentarios y sugerencias](https://pdftranslator-org.feedlog.ai/)
 
 Este es el repositorio oficial de documentación del producto, mantenido por [SaaSAIHub](https://github.com/SaaSAIHub). Incluye guías y ejemplos del servicio web; no contiene el código fuente de la aplicación ni el motor de traducción.
 
-![PDFTranslator.org: traductor de PDF online con carga de archivos, selección de idiomas, estilo y cuota gratuita](assets/pdf-translator-online-homepage.jpg)
+![Formulario para visitantes con 50 páginas gratuitas disponibles y dos plazas para tareas](assets/pdf-translator-online-homepage.jpg)
+
+*Vista de visitante en la página de inicio en inglés.*
 
 ## Traducción de PDF con IA: funciones y límites
 
@@ -20,30 +22,33 @@ PDFTranslator ayuda a estudiantes, investigadores y profesionales a leer documen
 
 | Función | Comportamiento actual |
 | --- | --- |
-| Entrada y salida en PDF | Sube un PDF y previsualiza o descarga el PDF traducido. |
+| Descargas en PDF | PDF con la traducción o PDF bilingüe con el original y la traducción. |
 | Más de 100 idiomas | Selecciona los idiomas de origen y destino. |
 | Conservación del formato | Intenta mantener la disposición, las tablas, las imágenes y la estructura; revisa los documentos complejos. |
 | Estilos de traducción | General, Académico, Legal o Empresarial. |
-| Cuota mensual gratuita | 600 páginas por mes natural; se restablece al comenzar cada mes. |
-| Tamaño del archivo | Hasta 20MB por PDF. |
-| Tareas simultáneas | Hasta 3 tareas en cola o en procesamiento; ambas ocupan una plaza. |
-| Sin registro | Acceso desde el navegador, sin cuenta ni instalación. |
-| Traducciones recientes | Consulta las tareas en el mismo navegador y guarda los resultados cuanto antes. |
+
+| Tipo de acceso | Páginas ordinarias gratuitas al mes | Máximo por archivo | Tareas en cola y en curso en total |
+| --- | ---: | --- | ---: |
+| Visitante | 50 | 20 MiB / 200 páginas | 2 |
+| Cuenta gratuita | 600 | 20 MiB / 200 páginas | 2 |
+| Pase mensual activo | 600 | 50 MiB / 800 páginas | 5 |
+
+El pase mensual se paga una sola vez y dura 30 días. Las tareas nuevas tienen prioridad mientras esté activo. No se renueva automáticamente.
 
 ## Cómo traducir un PDF online
 
 1. Abre [PDFTranslator.org](https://pdftranslator.org/es) y selecciona o arrastra tu PDF.
 2. Elige el idioma original del documento y el idioma de destino.
 3. Selecciona el estilo General o uno especializado: Académico, Legal o Empresarial.
-4. Inicia la traducción. Mantén la página abierta hasta que terminen la carga y la creación de la tarea.
+4. Inicia la traducción y mantén la página abierta durante la carga y la revisión del archivo. Si bastan las páginas gratuitas y se cumplen los límites, la tarea pasa directamente a la cola. Si necesitas créditos, revisa el coste y confirma.
 5. Consulta el progreso en las traducciones recientes de la página principal.
-6. Previsualiza o descarga el PDF terminado y compara el contenido importante y el formato con el original.
+6. Previsualiza el resultado o descarga la traducción sola o en PDF bilingüe.
 
 Conserva el original y descarga el resultado cuanto antes. La [guía de uso, en inglés](docs/usage-guide.md), explica la preparación de archivos, los límites y la resolución de problemas.
 
-## Ejemplos de traducción de PDF: artículos, manuales y libros de texto
+## Ejemplos de traducción de PDF
 
-Estas comparaciones de inglés a chino proceden de las muestras publicadas del producto. Permiten observar el texto y la estructura de páginas concretas; no garantizan el mismo resultado para cualquier PDF o combinación de idiomas.
+Estos pares de páginas proceden de los ejemplos publicados en el sitio. Los tres primeros muestran traducciones del inglés al chino. El cuarto muestra una página japonesa de escritura vertical traducida al chino.
 
 ### Traducción de artículos de investigación
 
@@ -72,6 +77,15 @@ Compara explicaciones, listas e ilustraciones al estudiar una página traducida.
 <tr><td width="50%"><img src="assets/textbook-english.webp" alt="Traducir libros de texto y material de estudio en PDF — Original en inglés: libro de texto" width="100%"></td><td width="50%"><img src="assets/textbook-chinese.webp" alt="Traducir libros de texto y material de estudio en PDF — Traducción al chino: libro de texto" width="100%"></td></tr>
 </table>
 
+### Traducción de texto japonés vertical
+
+Sigue las columnas de derecha a izquierda y comprueba la posición de los diálogos y los signos de puntuación.
+
+<table>
+<tr><th>Original en japonés</th><th>Traducción al chino</th></tr>
+<tr><td width="50%"><img src="assets/vertical-japanese.webp" alt="Traducción de texto japonés vertical — Original en japonés" width="100%"></td><td width="50%"><img src="assets/vertical-chinese.webp" alt="Traducción de texto japonés vertical — Traducción al chino" width="100%"></td></tr>
+</table>
+
 Para comprobar terminología, tablas, figuras y orden de lectura, consulta la [lista de revisión de traducción y formato, en inglés](docs/translation-review.md).
 
 ## Idiomas compatibles y usos de la traducción de PDF
@@ -93,7 +107,7 @@ Interfaces del sitio: [English](https://pdftranslator.org/) · [中文](https://
 
 ### ¿PDFTranslator.org permite traducir PDF gratis y sin registro?
 
-Sí. Actualmente incluye 600 páginas gratuitas por mes natural, sin registro. La cuota se restablece al comenzar el mes. Cada PDF puede ocupar hasta 20MB y se permiten hasta 3 tareas en cola o en procesamiento a la vez.
+Sí. Sin cuenta puedes traducir gratis 50 páginas de PDF ordinarios por mes natural. Con una cuenta, se usan primero las 600 páginas gratuitas del mes y cada página adicional cuesta 10 créditos. Las páginas gratuitas no se acumulan.
 
 ### ¿Puedo traducir un PDF sin perder el formato?
 
@@ -101,11 +115,11 @@ El servicio intenta conservar la disposición, las tablas, las imágenes y la es
 
 ### ¿Puedo traducir documentos PDF largos?
 
-Sí, siempre que respeten el límite de 20MB, la cuota mensual restante y los límites que muestre el servicio. Dividir un PDF permite seleccionar capítulos o reducir el tamaño de cada archivo, pero no aumenta la cuota gratuita.
+Los visitantes y las cuentas gratuitas pueden subir hasta 200 páginas y 20 MiB por archivo. Con un pase mensual activo, los límites suben a 800 páginas y 50 MiB. Puedes dividir el PDF para traducir solo algunos capítulos.
 
 ### ¿Puedo traducir un PDF escaneado?
 
-Los documentos compuestos únicamente por imágenes pueden necesitar OCR antes de traducirse. Si el sitio no puede extraer texto, sigue sus indicaciones o utiliza una herramienta OCR para crear un PDF con texto extraíble. Revisa el texto reconocido antes de traducirlo.
+Sube el PDF escaneado. Si la revisión indica que necesita reconocimiento de texto (OCR), inicia sesión y revisa el coste. Se cobran 20 créditos por cada página del archivo, aunque solo algunas necesiten OCR. Puedes usar los créditos de bienvenida. Las páginas gratuitas no cubren el OCR.
 
 ### ¿El resultado es un documento de Word?
 
@@ -113,11 +127,15 @@ El flujo principal recibe PDF y devuelve PDF traducidos. Este repositorio no des
 
 ### ¿Durante cuánto tiempo puedo descargar la traducción?
 
-La política de privacidad publicada indica que los resultados y sus enlaces de descarga se conservan hasta 24 horas después de finalizar la tarea. El historial local del navegador dura hasta 24 horas desde la creación de la tarea: son plazos diferentes. Guarda tu propia copia cuanto antes.
+El historial permanece visible durante 24 horas desde que la tarea termina, falla o se cancela. Si termina correctamente, tienes 24 horas para consultar y descargar el resultado, incluso con un pase mensual. Comprueba el vencimiento que figura en la tarea.
 
 ### ¿Los archivos se procesan solo en mi dispositivo?
 
-No. La traducción requiere subir el documento para procesarlo en servidores. Según la [política de privacidad](https://pdftranslator.org/privacy-policy), los PDF originales y los archivos de tareas canceladas o fallidas se eliminan dentro de las 24 horas posteriores a la carga. Consulta la [guía de privacidad, en inglés](docs/privacy.md).
+El documento se sube al servidor para traducirlo. El historial del visitante se guarda en su navegador y el servicio gestiona el historial de las cuentas. Las copias almacenadas y los registros necesarios pueden conservarse después de que caduque el acceso. Consulta la [guía de privacidad, en inglés](docs/privacy.md).
+
+### ¿Qué pasa si una tarea falla o la cancelo?
+
+Puedes cancelar una tarea en cola hasta que comience el procesamiento. Si falla o se cancela correctamente, se devuelven las páginas y los créditos utilizados. Las páginas gratuitas se abonan al mes de origen.
 
 ### ¿Es un traductor de código abierto o un paquete de API pública?
 
@@ -134,4 +152,4 @@ Este repositorio contiene documentación oficial del sitio PDFTranslator.org. No
 
 Utiliza ejemplos sin información sensible en los comentarios públicos. No publiques documentos privados, identificadores de tareas ni enlaces firmados de carga o descarga.
 
-**Información del producto verificada el 18 de octubre de 2026.** Las funciones y los límites pueden cambiar; consulta el [sitio oficial](https://pdftranslator.org/es), la [política de privacidad](https://pdftranslator.org/privacy-policy) y los [términos del servicio](https://pdftranslator.org/terms-of-service).
+**Información del producto verificada el 2 de noviembre de 2026.** Las funciones y los límites pueden cambiar; consulta el [sitio oficial](https://pdftranslator.org/es), la [política de privacidad](https://pdftranslator.org/privacy-policy) y los [términos del servicio](https://pdftranslator.org/terms-of-service).

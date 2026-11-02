@@ -22,6 +22,6 @@ Keep brand spelling as **PDFTranslator.org** or **PDFTranslator**, and link to *
 
 Use images you are authorized to share. Check for personal information, confidential content, browser account details, and outdated limits before submitting them. Store approved images in `assets` with descriptive names and useful alt text. Do not include temporary signed asset links or generated pictures presented as product results.
 
-The current comparison images show English originals and Chinese translations from the product's published examples. Do not describe them as a new test, a user endorsement, or proof of identical results on all files.
+The current comparison images pair English originals with Chinese translations for the paper, handbook and textbook, and a Japanese original with a Chinese translation for the vertical-text example from the product's published examples. Do not describe them as a new test, a user endorsement, or proof of identical results on all files.
 
 [Return to the product overview](README.md)
