@@ -146,10 +146,10 @@ PDFTranslator.org 支持 100 多种翻译语言，包括英语、中文、西班
 - [PDF 翻译使用与排错指南（英文）](docs/usage-guide.md)
 - [翻译质量与排版检查指南（英文）](docs/translation-review.md)
 - [文件上传、保留期限与隐私（英文）](docs/privacy.md)
-- [拆分 PDF](https://pdftranslator.org/tools/split-pdf) · [合并 PDF](https://pdftranslator.org/tools/merge-pdf) · [更多 PDF 工具](https://pdftranslator.org/tools)
+- [拆分 PDF](https://pdftranslator.org/zh/tools/split-pdf) · [合并 PDF](https://pdftranslator.org/zh/tools/merge-pdf) · [更多 PDF 工具](https://pdftranslator.org/zh/tools)
 - [通过 FeedLog 提交问题与功能建议](https://pdftranslator-org.feedlog.ai/)
 - [文档纠错与贡献方式（英文）](CONTRIBUTING.md)
 
 公开反馈请使用无敏感内容的材料，不要上传私人文档、任务标识符或带签名的上传／下载链接。
 
-**产品资料核对日期：2026 年 11 月 2 日。** 功能与限制可能变化，以[官网](https://pdftranslator.org/zh)、[隐私政策](https://pdftranslator.org/privacy-policy)和[服务条款](https://pdftranslator.org/terms-of-service)为准。
+**产品资料核对日期：2026 年 11 月 2 日。** 功能与限制可能变化，以[官网](https://pdftranslator.org/zh)、[隐私政策](https://pdftranslator.org/zh/privacy-policy)和[服务条款](https://pdftranslator.org/zh/terms-of-service)为准。

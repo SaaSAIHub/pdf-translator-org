@@ -146,10 +146,10 @@ Este repositorio contiene documentación oficial del sitio PDFTranslator.org. No
 - [Uso y resolución de problemas al traducir PDF — inglés](docs/usage-guide.md)
 - [Revisión de calidad y formato — inglés](docs/translation-review.md)
 - [Carga de archivos, conservación y privacidad — inglés](docs/privacy.md)
-- [Dividir PDF](https://pdftranslator.org/tools/split-pdf) · [Unir PDF](https://pdftranslator.org/tools/merge-pdf) · [Más herramientas PDF](https://pdftranslator.org/tools)
+- [Dividir PDF](https://pdftranslator.org/es/tools/split-pdf) · [Unir PDF](https://pdftranslator.org/es/tools/merge-pdf) · [Más herramientas PDF](https://pdftranslator.org/es/tools)
 - [Comunicar un problema o sugerir una función en FeedLog](https://pdftranslator-org.feedlog.ai/)
 - [Contribuir a la documentación — inglés](CONTRIBUTING.md)
 
 Utiliza ejemplos sin información sensible en los comentarios públicos. No publiques documentos privados, identificadores de tareas ni enlaces firmados de carga o descarga.
 
-**Información del producto verificada el 2 de noviembre de 2026.** Las funciones y los límites pueden cambiar; consulta el [sitio oficial](https://pdftranslator.org/es), la [política de privacidad](https://pdftranslator.org/privacy-policy) y los [términos del servicio](https://pdftranslator.org/terms-of-service).
+**Información del producto verificada el 2 de noviembre de 2026.** Las funciones y los límites pueden cambiar; consulta el [sitio oficial](https://pdftranslator.org/es), la [política de privacidad](https://pdftranslator.org/es/privacy-policy) y los [términos del servicio](https://pdftranslator.org/es/terms-of-service).

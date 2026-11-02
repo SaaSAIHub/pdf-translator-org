@@ -146,10 +146,10 @@ Este repositório contém a documentação oficial do site PDFTranslator.org. N�
 - [Uso e solução de problemas na tradução de PDF — inglês](docs/usage-guide.md)
 - [Revisão da qualidade e da formatação — inglês](docs/translation-review.md)
 - [Envio de arquivos, retenção e privacidade — inglês](docs/privacy.md)
-- [Dividir PDF](https://pdftranslator.org/tools/split-pdf) · [Unir PDF](https://pdftranslator.org/tools/merge-pdf) · [Mais ferramentas PDF](https://pdftranslator.org/tools)
+- [Dividir PDF](https://pdftranslator.org/pt-BR/tools/split-pdf) · [Unir PDF](https://pdftranslator.org/pt-BR/tools/merge-pdf) · [Mais ferramentas PDF](https://pdftranslator.org/pt-BR/tools)
 - [Relatar um problema ou sugerir um recurso no FeedLog](https://pdftranslator-org.feedlog.ai/)
 - [Contribuir com a documentação — inglês](CONTRIBUTING.md)
 
 Use exemplos sem informações sensíveis no feedback público. Não publique documentos privados, identificadores de tarefas ou links assinados de envio e download.
 
-**Informações do produto verificadas em 2 de novembro de 2026.** Recursos e limites podem mudar; consulte o [site oficial](https://pdftranslator.org/pt-BR), a [política de privacidade](https://pdftranslator.org/privacy-policy) e os [termos de serviço](https://pdftranslator.org/terms-of-service).
+**Informações do produto verificadas em 2 de novembro de 2026.** Recursos e limites podem mudar; consulte o [site oficial](https://pdftranslator.org/pt-BR), a [política de privacidade](https://pdftranslator.org/pt-BR/privacy-policy) e os [termos de serviço](https://pdftranslator.org/pt-BR/terms-of-service).
