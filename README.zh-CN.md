@@ -35,9 +35,9 @@ PDFTranslator 适合学生、研究人员及职场用户阅读外语 PDF，减�
 
 会员卡提供 **30／90／365 天**三档，一次性购买，付款成功后开始计算期限，积分一次性发放。有效期内提高文件和并行任务上限，新任务优先处理；不会增加每月免费页，也不会自动续费。新购会员卡不延长旧积分期限，任务上限不叠加。详见[当前价格与权益](https://pdftranslator.org/zh/pricing)。首次注册赠送的 1,000 积分在下个月的对应日期到期；无对应日期时为该月最后一天。
 
-![PDFTranslator.org — 30 / 90 / 365 days](assets/pdftranslator-membership-plans.jpg)
+![PDFTranslator.org 会员方案：30／90／365 天](assets/pdftranslator-membership-plans-zh.jpg)
 
-*官网当前会员方案（英文界面），价格与可售状态以页面实时展示为准。*
+*官网当前会员方案（中文界面），价格与可售状态以页面实时展示为准。*
 
 ## PDF 翻译工具对比：Google 翻译、DeepL 等
 

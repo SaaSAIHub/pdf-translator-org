@@ -35,9 +35,9 @@ O PDFTranslator ajuda estudantes, pesquisadores e profissionais a ler PDFs em ou
 
 Os passes têm pagamento único e duração de **30, 90 ou 365 dias** a partir da confirmação do pagamento. Todos os créditos são liberados no início. O passe pré-pago oferece prioridade e limites maiores, sem adicionar páginas gratuitas mensais nem renovação automática. Uma nova compra não estende créditos anteriores nem acumula vagas para tarefas. Veja os [planos atuais](https://pdftranslator.org/pt-BR/pricing). Os 1.000 créditos de boas-vindas expiram na data correspondente do mês seguinte ou, se ela não existir, no último dia desse mês.
 
-![PDFTranslator.org — 30 / 90 / 365 days](assets/pdftranslator-membership-plans.jpg)
+![Planos do PDFTranslator.org: 30, 90 ou 365 dias](assets/pdftranslator-membership-plans-pt-BR.jpg)
 
-*Planos atuais na página de preços, com interface em inglês. Consulte os preços e a disponibilidade no site.*
+*Planos atuais na página de preços, com interface em português do Brasil. Consulte os preços e a disponibilidade no site.*
 
 ## Comparação de tradutores PDF: Google Tradutor, DeepL e mais
 

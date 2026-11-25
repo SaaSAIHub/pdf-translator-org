@@ -35,9 +35,9 @@ PDFTranslator ayuda a estudiantes, investigadores y profesionales a leer documen
 
 Los pases son de pago único y duran **30, 90 o 365 días** desde el pago confirmado. Todos los créditos se entregan al inicio. La membresía ofrece prioridad y límites superiores, sin aumentar las páginas gratuitas mensuales ni renovarse automáticamente. Una nueva compra no prolonga los créditos anteriores ni acumula plazas para tareas. Consulta los [planes actuales](https://pdftranslator.org/es/pricing). Los 1.000 créditos de bienvenida caducan en la fecha equivalente del mes siguiente, o en su último día si no existe esa fecha.
 
-![PDFTranslator.org — 30 / 90 / 365 days](assets/pdftranslator-membership-plans.jpg)
+![Planes de PDFTranslator.org: 30, 90 o 365 días](assets/pdftranslator-membership-plans-es.jpg)
 
-*Planes actuales en la página de precios, con interfaz en inglés. Consulta los precios y la disponibilidad en el sitio.*
+*Planes actuales en la página de precios, con interfaz en español. Consulta los precios y la disponibilidad en el sitio.*
 
 ## Comparativa de traductores PDF: Google Translate, DeepL y más
 
