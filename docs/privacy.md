@@ -15,7 +15,7 @@ The site uploads the PDF to object storage using a signed upload URL. The servic
 | Guest task history | Available in the browser you used. Clearing site data can remove the local list sooner. |
 | Signed-in task history | Managed by the service under your account. |
 | A finished task in either history | Visible for 24 hours after completion, failure or cancellation. Check the expiry shown on the task. |
-| A successful translation | Preview and download for 24 hours after completion. A month pass does not extend access. |
+| A successful translation | Preview and download for 24 hours after completion. A membership pass does not extend access. |
 
 After expiry, the task disappears from visible history and downloads end. Storage copies and necessary business records may be retained longer. Account settings show payment and credit usage records separately from recent translations. Save a copy of the result while you can still download it.
 
@@ -35,4 +35,4 @@ For public feedback or documentation contributions, use non-sensitive examples. 
 - [Translation and formatting review](translation-review.md)
 - [Product feedback on FeedLog](https://pdftranslator-org.feedlog.ai/)
 
-Last checked: November 2, 2026. This is a product guide; the live website's published policies describe the current service.
+Last checked: November 25, 2026. This is a product guide; the live website's published policies describe the current service.

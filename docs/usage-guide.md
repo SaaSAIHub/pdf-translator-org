@@ -12,6 +12,10 @@ You can upload a scan directly. The document check determines whether it needs t
 
 For long documents, identify the chapters or pages you actually need. The [Split PDF tool](https://pdftranslator.org/tools/split-pdf) can help prepare a smaller selection. Splitting does not increase your monthly page allowance. Keep the original file.
 
+## Language-specific entry points
+
+Start with [PDF to Spanish](https://pdftranslator.org/translate/pdf-to-spanish), [German to English](https://pdftranslator.org/translate/german-to-english), or [English to Tamil](https://pdftranslator.org/translate/english-to-tamil). These pages currently have an English interface. Their languages are starting choices that you can change; a restored draft keeps its own language settings.
+
 ## Choose languages and a translation style
 
 The source language should match the document's text; the target language is the language you want to read. Check the target language shown on the form before submitting, especially if it has been preselected.
@@ -32,7 +36,7 @@ PDFTranslator.org offers 100+ translation languages. Select the available langua
 | Legal | Contracts, policies, terms, and regulations. |
 | Business | Business plans, quotations, and operations or financial reports. |
 
-Styles guide terminology and expression; they do not certify a translation. Review important names, numbers, and specialist terms in the result.
+Style selection is unavailable for some languages. Styles guide terminology and expression; they do not certify a translation. Review important names, numbers, and specialist terms in the result.
 
 ## Submit and retrieve a translated PDF
 
@@ -49,15 +53,15 @@ Guests see recent tasks in the browser used to submit them. Clearing site data c
 
 | Access | Ordinary pages free per calendar month | Maximum per PDF | Queued and processing tasks combined |
 | --- | ---: | --- | ---: |
-| Guest | 50 | 20 MiB and 200 pages | 2 |
-| Free account | 600 | 20 MiB and 200 pages | 2 |
-| Active month pass | 600 | 50 MiB and 800 pages | 5 |
+| Guest | 30 | 20 MiB and 200 pages | 2 |
+| Free account | 100 | 20 MiB and 200 pages | 2 |
+| Active membership | 100 | 50 MiB and 800 pages | 5 |
 
 Ordinary PDFs use free pages first. With an account, each additional page costs 10 credits. For example, if you have 12 free pages left, an 18-page ordinary PDF uses those 12 pages and 60 credits. Unused free pages expire at the end of the calendar month.
 
 OCR requires an account and costs 20 credits per page for the entire document. A 15-page file that needs OCR costs 300 credits even if just one page needs recognition. You can apply welcome credits to this cost and keep your ordinary free pages.
 
-First registration includes a one-time gift of 1,000 credits. A month pass is a one-time purchase valid for 30 days, with priority for new tasks and the higher limits above. Check current prices and credit expiry details on the [pricing page](https://pdftranslator.org/pricing).
+First registration includes a one-time gift of 1,000 credits. Membership passes are one-time purchases valid for 30, 90 or 365 days from successful payment, with credits granted upfront, priority for new tasks and the higher limits above. Monthly free pages stay at 100; membership does not add free pages. Each purchase has its own expiry and does not extend old credits or stack task limits. Welcome credits expire on the matching date of the following month (or its last day if needed). Check current prices and credit expiry details on the [pricing page](https://pdftranslator.org/pricing).
 
 ## Troubleshoot PDF translation
 
@@ -73,7 +77,7 @@ First registration includes a one-time gift of 1,000 credits. A month pass is a 
 | Download is unavailable | Return to the task card while the result is still available. If it has expired, a new translation may be necessary and remains subject to current limits. |
 | Layout or wording needs attention | Compare the affected page with the original using the review guide below. |
 
-History is visible for 24 hours after completion, failure or cancellation. Successful results can be previewed and downloaded for 24 hours after completion. A month pass does not extend either window.
+History is visible for 24 hours after completion, failure or cancellation. Successful results can be previewed and downloaded for 24 hours after completion. A membership pass does not extend either window.
 
 ## Next steps
 
@@ -83,4 +87,4 @@ History is visible for 24 hours after completion, failure or cancellation. Succe
 
 For public feedback, describe the language pair, approximate page count, browser, and visible error message without including private content, task identifiers, or signed links.
 
-Last checked: November 2, 2026. The [live website](https://pdftranslator.org/) and its [Terms of Service](https://pdftranslator.org/terms-of-service) describe the current service.
+Last checked: November 25, 2026. The [live website](https://pdftranslator.org/) and its [Terms of Service](https://pdftranslator.org/terms-of-service) describe the current service.

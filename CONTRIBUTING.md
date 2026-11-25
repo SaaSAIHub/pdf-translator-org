@@ -14,6 +14,8 @@ Pull requests are welcome for factual corrections, clearer instructions, broken 
 
 The default README is English. Simplified Chinese, Spanish, and Brazilian Portuguese versions live alongside it and link to each other. When changing a product fact, update all four versions. Detailed guides remain in English.
 
+Use [current product facts and sources](docs/current-product-facts.md) as a checklist. Keep all four READMEs, image captions and repository About description aligned when quotas or plans change. Do not publish private implementation details or undocumented API instructions.
+
 Verify claims against the live website, current policies, and observed behavior. If sources conflict, explain the discrepancy in the pull request rather than inventing a resolution. Do not add unsupported accuracy, speed, ranking, privacy, or formatting guarantees.
 
 Keep brand spelling as **PDFTranslator.org** or **PDFTranslator**, and link to **https://pdftranslator.org/** or its supported language homepages. Use descriptive headings and natural wording instead of keyword lists or repeated promotional links.

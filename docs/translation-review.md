@@ -51,4 +51,4 @@ Use the [PDFTranslator.org FeedLog portal](https://pdftranslator-org.feedlog.ai/
 
 Do not include personal documents, confidential passages, task identifiers, or signed download URLs. Documentation corrections can be submitted as a pull request; see [CONTRIBUTING](../CONTRIBUTING.md).
 
-Last checked: November 2, 2026. Review guidance does not guarantee a particular translation result.
+Last checked: November 25, 2026. Review guidance does not guarantee a particular translation result.
